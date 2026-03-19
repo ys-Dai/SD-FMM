@@ -1,0 +1,23 @@
+# SD-FMM — Python dependency list
+# Install with: pip install -r requirements.txt
+
+# ── Core deep learning ──────────────────────────────────────────────────────
+torch>=1.13.0
+torchvision>=0.14.0
+
+# ── Scientific computing ─────────────────────────────────────────────────────
+numpy>=1.23.0
+scipy>=1.9.0
+pandas>=1.5.0
+
+# ── Signal processing ────────────────────────────────────────────────────────
+PyWavelets>=1.4.0
+
+# ── Machine learning & evaluation ────────────────────────────────────────────
+scikit-learn>=1.1.0
+
+# ── Visualisation ────────────────────────────────────────────────────────────
+matplotlib>=3.6.0
+
+# ── Utilities ────────────────────────────────────────────────────────────────
+tqdm>=4.64.0         # progress bars
