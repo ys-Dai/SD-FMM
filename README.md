@@ -18,7 +18,7 @@ SD-FMM makes four primary contributions:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/SD-FMM.git
+git clone https://github.com/SD-FMM.git
 cd SD-FMM
 pip install -r requirements.txt
 ```
