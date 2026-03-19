@@ -1,6 +1,6 @@
 # Detecting Market Manipulation with Dual-branch Self-supervised Learning: A Unified Framework Integrating Frequency-informed Anomaly Synthesis and Domain-Specific Features
 
-This repository contains the official implementation of **SD-FMM**, a self-supervised dual-branch contrastive anomaly detection framework for financial market manipulation detection.
+This repository contains the official implementation of **SD-FMM**, a Self-supervised Detection framework tailored to Financial Market Manipulation.
 
 
 ---
