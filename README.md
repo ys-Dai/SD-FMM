@@ -29,7 +29,7 @@ Requires Python ≥ 3.8 and PyTorch ≥ 1.13.
 
 ## Usage
 
-### 1. Train the model
+### Train the model
 
 ```bash
 python train.py
